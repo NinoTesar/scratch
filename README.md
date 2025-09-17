@@ -1,2 +1,2 @@
 # scratch
-# BUG FIX [#3](https://github.com/NinoTesar/scratch/issues/3)
+# BUG FIX [[#6](https://github.com/NinoTesar/scratch/issues/6)3]
